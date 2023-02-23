@@ -2,13 +2,20 @@
 # IMI-Driver
 ##  Overview
 The project consists of four main parts
+
 1、Data preprocessing:/Preprocessing
+
 2、Constructing network:/Network
+
 3、Network embedding/Cancer_MANE
+
 4、Visualization:/Plot
+
 ## Prerequisites
 scikit-learn 0.19.1 
+
 numpy 1.15.4 
+
 scipy 1.2.0 
 torch 0.4.1 
 Python 3.5
